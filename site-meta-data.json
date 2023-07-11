@@ -1,12 +1,12 @@
 {
   "title": "Gatsby Starter Peach",
-  "siteUrl": "https://thecodedose.com/",
-  "email": "thecodedoseofficial@gmail.com",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "siteUrl": "https://bento.me/athuluriakhil",
+  "email": "Akhill89131@proton.me",
+  "description": "Hi! I'm a Front-End Developer and Open Source Enthusiast. I love building things and sharing them with the world. Follow me on Instagram",
   "social": {
-    "twitter": "https://twitter.com/thecodedose",
-    "instagram": "https://www.instagram.com/thecodedose/",
-    "redbubble": "https://www.redbubble.com/people/thecodedose/shop",
-    "github": "https://github.com/ihsavru"
+    "twitter": "https://twitter.com/akhilathuluri1",
+    "instagram": "https://www.instagram.com/athuluriakhil/",
+    "youtube": "https://www.youtube.com/@AkhilTechChannel",
+    "github": "https://github.com/akhilathuluri"
   }
 }
